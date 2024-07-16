@@ -6,7 +6,7 @@ Bu proje, sohbet forumudur isteyenler o an ki düşüncelerini hislerini yazarak
 
 ## Ekran Görüntüleri
 
-![Uygulama Ekran Görüntüsü](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Uygulama Ekran Görüntüsü](file:///D:/Ads%C4%B1z.png)
 
   
 ## Özellikler
