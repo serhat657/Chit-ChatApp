@@ -1,16 +1,50 @@
-# anketproje
 
-A new Flutter project.
+# Chit Chat app
 
-## Getting Started
+Bu proje, sohbet forumudur isteyenler o an ki düşüncelerini hislerini yazarak diğer insanlar ile paylaşabilir. diğer kişlilerin profillerine gidip daha önce ne paylaşmış görebilir.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Ekran Görüntüleri
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Uygulama Ekran Görüntüsü](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  
+## Özellikler
+
+
+✅Share View : bu kısımda görüşlerinizi paylaşabilirsiniz 
+
+✅My Profile : kendi profilinize giderek daha önce paylaştığınız
+yazıları görebilirsiniz.
+
+✅ Chit-ChatForm : Global ekranımızdır birbirinden farklı kullanıcıların yazıları burda görünür.
+
+
+
+
+  
+## ❓Kullanım
+
+✅Fikir Paylaş:
+ Bir fikriniz varsa Share View butonuna tıklayarak düşüncenizi yayın
+
+✅My Profile:
+
+daha önce neler yazdınız hemen göz gezdirmek için MyProfile Butonuna tıklayın
+
+✅Exit:
+
+giriş yaptıktan sonra çıkmak istiyorsanız exit butonuna tıklayın
+
+
+  
+## Katkıda Bulunanlar
+
+Katkılarınızı bekliyoruz! Lütfen pull request gönderin veya issue açın
+  
+## İletişim
+Sorularınız veya önerileriniz için serhat655_655@hotmail.com adresine e-posta gönderebilirsiniz.
+
+
+
+  
