@@ -5,8 +5,7 @@ Bu proje, sohbet forumudur isteyenler o an ki düşüncelerini hislerini yazarak
 
 
 ## Ekran Görüntüleri
-
-![Uygulama Ekran Görüntüsü](file:///D:/Ads%C4%B1z.png)
+![Adsız](https://github.com/user-attachments/assets/75940ca2-5eac-41b5-89dd-00386bd396eb)
 
   
 ## Özellikler
